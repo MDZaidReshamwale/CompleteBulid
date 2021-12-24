@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736589710313",
+    "project_id": "completebulid",
+    "storage_bucket": "completebulid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736589710313:android:9e26088a4ee2dbf375c178",
+        "android_client_info": {
+          "package_name": "com.zaid.completebulid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736589710313-2t55trb6ieq98l390pe1i16q8nrv6udk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmjXnPet3WPelO365I4qhFoLWIL_BVYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736589710313-2t55trb6ieq98l390pe1i16q8nrv6udk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
